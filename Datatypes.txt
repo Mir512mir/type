@@ -1,0 +1,11 @@
+pop,push,unshift,shift-мутирующие(изменяют исходный массив)
+
+array.concat()
+array.map()
+array.filter()
+array.splice(1)-delete
+array.forEach()
+
+String,Array,Number,Null,Undefind,Boolean,Object
+
+<html>......
